@@ -2,12 +2,31 @@
     "name": "aurora-evening",
     "displayName": "Aurora Evening",
     "description": "Not the goddess, but the light.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "MarvinMichel",
+    "author": {
+        "name": "Marvin Sernee"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MarvinMichel/aurora-evening"
+    },
+    "bugs": {
+        "url": "https://github.com/MarvinMichel/aurora-evening/issues"
+    },
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Aurora",
+        "Aurora Lights",
+        "Evening",
+        "Mint Green",
+        "Dark Theme",
+        "MarvinMichel"
     ],
     "contributes": {
         "themes": [
