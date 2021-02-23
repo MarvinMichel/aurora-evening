@@ -1,0 +1,21 @@
+{
+    "name": "aurora-evening",
+    "displayName": "Aurora Evening",
+    "description": "Not the goddess, but the light.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora Evening",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurora Evening-color-theme.json"
+            }
+        ]
+    }
+}
