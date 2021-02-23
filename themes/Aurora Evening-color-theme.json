@@ -2,13 +2,13 @@
 	"name": "Aurora Evening",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#041823",
+		"editor.background": "#051d30",
 		"editor.foreground": "#abeedc",
 		"activityBarBadge.background": "#0aaf86",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#022737",
-		"statusBar.background": "#022737",
-		"activityBar.background": "#022737"
+		"sideBar.background": "#011f2c",
+		"statusBar.background": "#011f2c",
+		"activityBar.background": "#011f2c"
 	},
 	"tokenColors": [
 		{
@@ -30,6 +30,15 @@
 			],
 			"settings": {
 				"foreground": "#FFC7FE"
+			}
+		},
+		{
+			"name": "Variables, ReadWrite",
+			"scope": [
+				"variable.other.readwrite.js"
+			],
+			"settings": {
+				"foreground": "#80FBC8"
 			}
 		},
 		{
@@ -59,19 +68,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#BFAEFD"
-			}
-		},
-		{
-			"name": "Keyword, Storage",
-			"scope": [
-				"keyword",
-				"storage.type.function.js",
-				"meta.function.js",
-				"source.js.jsx"
-			],
-			"settings": {
-				"foreground": "#BFAEFD"
+				"foreground": "#9EA2D4"
 			}
 		},
 		{
@@ -91,7 +88,16 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00eeff"
+				"foreground": "#4299C4"
+			}
+		},
+		{
+			"name": "Import",
+			"scope": [
+				"keyword.control.module.js"
+			],
+			"settings": {
+				"foreground": "#3DD8DF"
 			}
 		},
 		{
@@ -102,7 +108,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#0DF3CC"
+				"foreground": "#80FBC8"
 			}
 		},
 		{
@@ -116,6 +122,16 @@
 			],
 			"settings": {
 				"foreground": "#88BEE5"
+			}
+		},
+		{
+			"name": "Arrow Functions",
+			"scope": [
+				"entity.name.function.js",
+				"storage.type.function.arrow"
+			],
+			"settings": {
+				"foreground": "#E5CDED"
 			}
 		},
 		{
@@ -165,7 +181,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#00ffdd"
+				"foreground": "#C6FED7"
 			}
 		},
 		{
@@ -254,7 +270,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#00ffb3"
+				"foreground": "#15D9AD"
 			}
 		},
 		{
