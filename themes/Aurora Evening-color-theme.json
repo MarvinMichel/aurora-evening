@@ -2,13 +2,13 @@
 	"name": "Aurora Evening",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#062135",
+		"editor.background": "#041823",
 		"editor.foreground": "#abeedc",
 		"activityBarBadge.background": "#0aaf86",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#041624",
-		"statusBar.background": "#041624",
-		"activityBar.background": "#041624"
+		"sideBar.background": "#022737",
+		"statusBar.background": "#022737",
+		"activityBar.background": "#022737"
 	},
 	"tokenColors": [
 		{
@@ -63,6 +63,18 @@
 			}
 		},
 		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword",
+				"storage.type.function.js",
+				"meta.function.js",
+				"source.js.jsx"
+			],
+			"settings": {
+				"foreground": "#BFAEFD"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
@@ -79,7 +91,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#98FEF2"
+				"foreground": "#00eeff"
 			}
 		},
 		{
@@ -153,7 +165,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#bfaefd"
+				"foreground": "#00ffdd"
 			}
 		},
 		{
@@ -242,7 +254,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#0DC4AC"
+				"foreground": "#00ffb3"
 			}
 		},
 		{
