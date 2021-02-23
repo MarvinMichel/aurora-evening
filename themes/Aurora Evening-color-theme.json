@@ -2,13 +2,14 @@
 	"name": "Aurora Evening",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#051d30",
+		"editor.background": "#0f1b25",
 		"editor.foreground": "#abeedc",
 		"activityBarBadge.background": "#0aaf86",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"sideBar.background": "#011f2c",
 		"statusBar.background": "#011f2c",
-		"activityBar.background": "#011f2c"
+		"activityBar.background": "#011f2c",
+		"titleBar.activeBackground": "#011f2c"
 	},
 	"tokenColors": [
 		{
@@ -29,16 +30,26 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#FFC7FE"
+				"foreground": "#b188f1"
 			}
 		},
 		{
-			"name": "Variables, ReadWrite",
+			"name": "Variables Names",
 			"scope": [
 				"variable.other.readwrite.js"
 			],
 			"settings": {
-				"foreground": "#80FBC8"
+				"foreground": "#00ffc8"
+			}
+		},
+		{
+			"name": "Variable Object Names",
+			"scope": [
+				"variable.other.object",
+				"variable.other.property"
+			],
+			"settings": {
+				"foreground": "#00FFC8"
 			}
 		},
 		{
@@ -68,7 +79,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#9EA2D4"
+				"foreground": "#00fff2"
 			}
 		},
 		{
@@ -88,7 +99,17 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#4299C4"
+				"foreground": "#42c4b3"
+			}
+		},
+		{
+			"name": "Keyword CSS",
+			"scope": [
+				"keyword.control.at-rule",
+				"punctuation.definition.keyword.css"
+			],
+			"settings": {
+				"foreground": "#b5a9f8"
 			}
 		},
 		{
@@ -121,15 +142,12 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#88BEE5"
+				"foreground": "#a1ffeb"
 			}
 		},
 		{
 			"name": "Arrow Functions",
-			"scope": [
-				"entity.name.function.js",
-				"storage.type.function.arrow"
-			],
+			"scope":  "storage.type.function.arrow",
 			"settings": {
 				"foreground": "#E5CDED"
 			}
@@ -166,7 +184,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#04807B"
+				"foreground": "#c774ff"
 			}
 		},
 		{
@@ -181,7 +199,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C6FED7"
+				"foreground": "#dbc4ff"
 			}
 		},
 		{
@@ -206,7 +224,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#b3ffec"
 			}
 		},
 		{
