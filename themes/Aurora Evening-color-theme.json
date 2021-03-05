@@ -34,22 +34,14 @@
 			}
 		},
 		{
-			"name": "Variables Names",
-			"scope": [
-				"variable.other.readwrite.js"
-			],
-			"settings": {
-				"foreground": "#00ffc8"
-			}
-		},
-		{
 			"name": "Variable Object Names",
 			"scope": [
 				"variable.other.object",
-				"variable.other.property"
+				"variable.other.property",
+				"variable.other.readwrite"
 			],
 			"settings": {
-				"foreground": "#00FFC8"
+				"foreground": "#EEFFFD"
 			}
 		},
 		{
@@ -79,7 +71,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00fff2"
+				"foreground": "#80FBC8"
 			}
 		},
 		{
@@ -88,7 +80,6 @@
 				"keyword.control",
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -100,6 +91,13 @@
 			],
 			"settings": {
 				"foreground": "#42c4b3"
+			}
+		},
+		{
+			"name": "Meta, Tags",
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#EEFFFD"
 			}
 		},
 		{
@@ -118,7 +116,7 @@
 				"keyword.control.module.js"
 			],
 			"settings": {
-				"foreground": "#3DD8DF"
+				"foreground": "#00FFD5"
 			}
 		},
 		{
@@ -142,7 +140,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#a1ffeb"
+				"foreground": "#60ffea"
 			}
 		},
 		{
@@ -300,6 +298,13 @@
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#0DF3CC"
+			}
+		},
+		{
+			"name": "HTML Text",
+			"scope": "text.html.derivative",
+			"settings": {
+				"foreground": "#EEFFFD"
 			}
 		},
 		{
