@@ -5,4 +5,4 @@ This is a VSCode dark theme based on the colors from an aurora-beam lit sky. The
 ## Color Palette
 ![Aurora color Palette](./images/color-palette.png)
 
-**Enjoy!**
+**Enjoy!😊**
