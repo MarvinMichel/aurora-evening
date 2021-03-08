@@ -2,14 +2,14 @@
 	"name": "Aurora Evening",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0f1b25",
+		"editor.background": "#1d3030",
 		"editor.foreground": "#abeedc",
 		"activityBarBadge.background": "#0aaf86",
-		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#011f2c",
-		"statusBar.background": "#011f2c",
-		"activityBar.background": "#011f2c",
-		"titleBar.activeBackground": "#011f2c"
+		"sideBarTitle.foreground": "#EEFFFD",
+		"sideBar.background": "#162424",
+		"statusBar.background": "#0f1b1b",
+		"activityBar.background": "#0f1b1b",
+		"titleBar.activeBackground": "#0f1b1b"
 	},
 	"tokenColors": [
 		{
@@ -127,7 +127,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#80FBC8"
+				"foreground": "#71e3ff"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#0DF3CC"
 			}
 		},
 		{
