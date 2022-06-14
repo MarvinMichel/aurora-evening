@@ -1,4 +1,9 @@
 # Aurora Evening
+![](https://badgen.net/vs-marketplace/i/aurora-evening.vim)
+![](https://badgen.net/vs-marketplace/d/aurora-evening.vim)
+![](https://badgen.net/vs-marketplace/rating/aurora-evening.vim)
+![](https://badgen.net/github/license/MarvinMichel/aurora-evening)
+
 A Visual Studio Code darkmode theme, based on the beauty of the aurora filled night skies.
 <br/>
 <br/>
@@ -8,9 +13,9 @@ A Visual Studio Code darkmode theme, based on the beauty of the aurora filled ni
 <br/>
 With a mix of mint-green, purple and blue, this theme represents the natural colors of the polar lights caused by disturbances in the magnetosphere caused by the solar wind.
 
-<div style="display:flex;gap:1rem">
-    <img src="./images/aurora_preview.jpeg" style="width:50%" />
-    <img src="./images/aurora_preview_3.jpeg" style="width:50%" />
+<div style="display:flex;justify-content:space-between;">
+    <img src="./images/aurora_preview.jpeg" style="width:45%" />
+    <img src="./images/aurora_preview_3.jpeg" style="width:45%" />
 </div>
 <br/>
 <br/>
