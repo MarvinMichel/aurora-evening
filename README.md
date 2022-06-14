@@ -1,8 +1,8 @@
 # Aurora Evening
-![](https://badgen.net/vs-marketplace/i/aurora-evening.vim)
-![](https://badgen.net/vs-marketplace/d/aurora-evening.vim)
-![](https://badgen.net/vs-marketplace/rating/aurora-evening.vim)
-![](https://badgen.net/github/license/MarvinMichel/aurora-evening)
+![](https://img.shields.io/visual-studio-marketplace/d/marvinsernee.aurora-evening?style=for-the-badge)
+![](https://img.shields.io/visual-studio-marketplace/stars/marvinsernee.aurora-evening?style=for-the-badge)
+![](https://img.shields.io/visual-studio-marketplace/release-date/marvinsernee.aurora-evening?style=for-the-badge)
+![](https://img.shields.io/github/license/MarvinMichel/aurora-evening?style=for-the-badge)
 
 A Visual Studio Code darkmode theme, based on the beauty of the aurora filled night skies.
 <br/>
