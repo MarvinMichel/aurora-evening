@@ -33,7 +33,7 @@
             {
                 "label": "Aurora Evening",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Aurora Evening-color-theme.json"
+                "path": "./themes/aurora-evening-color-theme.json"
             }
         ]
     }
