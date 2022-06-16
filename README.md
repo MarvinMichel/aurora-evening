@@ -1,4 +1,9 @@
 # Aurora Evening
+![](https://img.shields.io/visual-studio-marketplace/d/marvinsernee.aurora-evening?style=for-the-badge)
+![](https://img.shields.io/visual-studio-marketplace/stars/marvinsernee.aurora-evening?style=for-the-badge)
+![](https://img.shields.io/visual-studio-marketplace/release-date/marvinsernee.aurora-evening?style=for-the-badge)
+![](https://img.shields.io/github/license/MarvinMichel/aurora-evening?style=for-the-badge)
+
 A Visual Studio Code darkmode theme, based on the beauty of the aurora filled night skies.
 <br/>
 
@@ -16,9 +21,9 @@ With a mix of mint-green, purple and blue, this theme represents the natural col
 <br/>
 <br/>
 <br/>
-<div style="display:flex;gap:1rem">
-    <img src="./images/aurora_preview.jpeg" style="width:50%" />
-    <img src="./images/aurora_preview_3.jpeg" style="width:50%" />
+<div style="display:flex;justify-content:space-between;">
+    <img src="./images/aurora_preview.jpeg" style="width:45%" />
+    <img src="./images/aurora_preview_3.jpeg" style="width:45%" />
 </div>
 <br/>
 <br/>
