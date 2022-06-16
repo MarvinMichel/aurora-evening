@@ -2,8 +2,8 @@
     "name": "aurora-evening",
     "displayName": "Aurora Evening",
     "description": "Not the goddess, but the light.",
-    "icon": "./images/icon.png",
-    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "version": "1.0.1",
     "publisher": "MarvinSernee",
     "author": {
         "name": "Marvin Sernee"
