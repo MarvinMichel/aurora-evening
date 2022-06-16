@@ -1,13 +1,21 @@
 # Aurora Evening
 A Visual Studio Code darkmode theme, based on the beauty of the aurora filled night skies.
 <br/>
+
+<div style="display:flex;justify-content:center;">
+    <img src="./images/icon.svg" style="width: 50%" />
+</div>
 <br/>
-![Aurora Evening VSCode Theme](./images/aurora_thumbnail.png)
-<br/>
-<br/><br/>
 <br/>
 With a mix of mint-green, purple and blue, this theme represents the natural colors of the polar lights caused by disturbances in the magnetosphere caused by the solar wind.
+<br/>
+<br/>
+<br/>
 
+![Aurora Evening VSCode Theme](./images/aurora_thumbnail.png)
+<br/>
+<br/>
+<br/>
 <div style="display:flex;gap:1rem">
     <img src="./images/aurora_preview.jpeg" style="width:50%" />
     <img src="./images/aurora_preview_3.jpeg" style="width:50%" />
