@@ -7,8 +7,8 @@
 A Visual Studio Code darkmode theme, based on the beauty of the aurora filled night skies.
 <br/>
 
-<div style="display:flex;justify-content:center;">
-    <img src="./images/icon.svg" style="width: 50%" />
+<div style="display:flex">
+    <img src="./images/icon_large.png" style="width: 50%;margin:auto;" />
 </div>
 <br/>
 <br/>
